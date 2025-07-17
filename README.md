@@ -1,5 +1,5 @@
 # TCDF
-The code of "Probability_forecast_of_typhoon_precipitation_based_on_diffusion_model", but it is still only available for peer review.
+The code of "Probability forecast of typhoon precipitation based on diffusion model". Currently, it is only available for peer review, and will be fully disclosed after the review is completed.
 
 ## Training data
 
